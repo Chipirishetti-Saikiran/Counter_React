@@ -1,14 +1,13 @@
 
 import React,{Component} from 'react'; 
-
-import Counter from './Components/Counter/index'
+import Speedometer from './Components/Speedometer';
 class App extends Component {
    
     render(){
         return(
             <div>
                 
-                <Counter/>
+                <Speedometer/>
             </div>
         ) 
     }

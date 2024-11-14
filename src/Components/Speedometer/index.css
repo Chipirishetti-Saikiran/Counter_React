@@ -1,0 +1,29 @@
+.Body{
+    background-color: black;
+    text-align: center;
+    width: 60vw;
+    height: 40vh;
+}
+    
+.h1{
+    color:white;
+}
+.p1{
+    color:white;
+}
+.Span{
+    color:red;
+}
+.p2{
+    color:skyblue;
+}
+.img{
+    height:80px;
+
+}
+.btn{
+    background-color: blue;
+    color:white;
+    border-radius:5px;
+    margin:5px;
+}
